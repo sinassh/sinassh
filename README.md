@@ -107,6 +107,9 @@ I focus on:
 
 GitHub:
 https://github.com/sinassh
+E-mail:
+sinashiri8613@gmail.com
+Telegram:
 
 ---
 
