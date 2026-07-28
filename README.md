@@ -1,10 +1,7 @@
-ز<div align="center">
-
+<div align="center">
 # Hi, I'm Sina 👋
 
 ### Python Developer | AI & Computer Vision Enthusiast
-
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
 
 </div>
 
