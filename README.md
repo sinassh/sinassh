@@ -1,47 +1,76 @@
+ز<div align="center">
+
 # Hi, I'm Sina 👋
 
-🎓 AM & CS Student at KNTU  
-💻 Python Developer | AI & Computer Vision Enthusiast
+### Python Developer | AI & Computer Vision Enthusiast
 
-I am interested in:
-- Artificial Intelligence
-- Computer Vision
-- Software Development
-- Algorithms and Problem Solving
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
 
-## Skills
-
-### Programming
-- Python
-- C/C++
-- JavaScript
-
-### AI & Data
-- OpenCV
-- NumPy
-- Pandas
-- Machine Learning
-
-### Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-
-## Projects
-
-🔹 Face Detection System  
-Computer vision project using OpenCV.
-
-🔹 Ticket Reservation System  
-A Python-based reservation application.
-
-🔹 Math Visualization and Calculator  
-Interactive mathematical tools.
-
-## Goals
-
-Building AI-powered applications and improving my skills in software engineering.
+</div>
 
 ---
 
-⭐ Feel free to explore my repositories.
+## 👨‍💻 About Me
+
+🎓 Applied Mathematics & Computer Science Student at KNTU  
+💻 Passionate about Artificial Intelligence, Computer Vision and Software Development
+
+I enjoy building projects that combine:
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🧮 Algorithms & Problem Solving
+- 💻 Software Engineering
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+<p>
+Python • C/C++ • JavaScript
+</p>
+
+### AI & Data Science
+<p>
+OpenCV • NumPy • Pandas • Machine Learning
+</p>
+
+### Tools & Technologies
+<p>
+Git • GitHub • VS Code • Jupyter Notebook
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ Face Detection System
+Computer Vision project built with OpenCV.
+
+### 🎫 Ticket Reservation System
+Python-based application focusing on software design and problem solving.
+
+### 📊 Math Visualization & Calculator
+Interactive mathematical tools combining programming and mathematics.
+
+---
+
+## 🎯 Current Goals
+
+- Building AI-powered applications
+- Improving software engineering skills
+- Exploring Computer Vision and Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/sinassh
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
