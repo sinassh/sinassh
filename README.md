@@ -107,10 +107,12 @@ I focus on:
 
 GitHub:
 https://github.com/sinassh
+
 E-mail:
 sinashiri8613@gmail.com
-Telegram:
 
+Telegram:
+https://t.me/sins1819
 ---
 
 <div align="center">
