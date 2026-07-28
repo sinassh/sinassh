@@ -34,7 +34,7 @@ OpenCV • NumPy • Pandas • Machine Learning
 
 ### Tools & Technologies
 <p>
-Git • GitHub • VS Code • Jupyter Notebook
+Git • GitHub • VS Code • PyCharm • Jupyter Notebook • Docker
 </p>
 
 ---
